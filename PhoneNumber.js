@@ -6,3 +6,4 @@ function getPhoneNumber(num){
     return ress
 }
 console.log(getPhoneNumber(5));
+// \\ascasc
